@@ -1,0 +1,12 @@
+# results/
+results/*.png
+results/*.mat
+
+# MAC OS X
+*.DS_Store
+
+# SMC
+*.tasks
+*.sage
+*.sage-chat
+*.term

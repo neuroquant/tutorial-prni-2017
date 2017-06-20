@@ -1,6 +1,8 @@
-# results/
-results/*.png
-results/*.mat
+octave-workspace
+
+# tmp/
+tmp/*.png
+tmp/*.mat
 
 # MAC OS X
 *.DS_Store

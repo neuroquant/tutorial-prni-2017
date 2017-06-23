@@ -2,6 +2,12 @@
 
 The sample correlation matrix between fMRI BOLD time-series serves as a an important starting point for many types of network models for functional connectivity (FC) analyses. In recent years, functional connectivity research increasingly combines data collected across multiple sites. However, the presence of systematic measurement errors due to scanner and session specific artifacts can bias the entries of the correlation matrix, thus creating non-biological differences across sites. In addition to session effects, different sites possess demographic variations that introduce additional changes to correlation matrices. Thus, both session specific as well as site-specific effects on fMRI FC are instances of batch effects in multi-site fMRI network analyses. This tutorial will introduce nonparametric metrics to visualize and quantify site effects in functional connectivity as well as methods to mitigate such effects. In particular, this tutorial will emphasize how reducing session level artifacts also reduce site effects.
 
+### Citation
+
+Narayan, Manjari and Maron-Katz, Adi, *Tutorial: Methods to Diagnose and Ameliorate Site Effects in BOLD Functional Connectivity*, 7th International Workshop on Pattern Recognition in Neuroimaging, 2017
+
+[![DOI](https://zenodo.org/badge/94818742.svg)](https://zenodo.org/badge/latestdoi/94818742)
+
 
 ### Description
 

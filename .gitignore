@@ -12,3 +12,4 @@ tmp/*.mat
 *.sage
 *.sage-chat
 *.term
+*.sage-jupyter*
